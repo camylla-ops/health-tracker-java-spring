@@ -17,3 +17,8 @@ A estrutura inicial foi definida com o Spring Initializr, incluindo as seguintes
 * **Web:** Spring Web + Thymeleaf
 * **Utilitários:** Lombok, Spring Boot DevTools, Spring Boot Actuator
 
+## **Dia 2: Modelagem de Dados**
+
+* Criação das entidades `Exercicio`, `Refeicao` e `Sono` no pacote `entity`.
+* Mapeamento Objeto-Relacional (ORM) usando as anotações `@Entity`, `@Id`, e `@Data` (Lombok) para código limpo.
+* Validação do schema gerado pelo Hibernate no console do H2.
