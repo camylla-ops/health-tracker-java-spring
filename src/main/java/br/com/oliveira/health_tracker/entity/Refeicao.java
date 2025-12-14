@@ -16,6 +16,6 @@ public class Refeicao {
 
     private LocalDate data;
     private String nome;
-    private String tipo; // Ex: Café da Manhã, Almoço, Jantar
-    private Double quantidade; // Ex: em Gramas, ML, ou porções
+    private String tipo; // Café da Manhã, Almoço, Jantar
+    private Double quantidade; //  em Gramas, ML, ou porções
 }
